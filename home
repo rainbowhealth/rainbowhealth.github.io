@@ -32,9 +32,9 @@
     <div class="dropdown">
       <button class="dropbtn"><img src="https://cdn1.iconfinder.com/data/icons/thincons/100/menu-512.png" alt="dropdown menu" width="50px"></button>
       <div class="dropdown-content">
-        <a target="_blank" href="https://www.google.com/">Google</a>
-        <a target="_blank" href="https://www.facebook.com/">Facebook</a>
-        <a target="_blank" href="https://www.youtube.com/">YouTube</a>
+        <a id="google" target="_blank" href="https://www.google.com/"><span id="g1">G</span><span id="o1">o</span><span id="o2">o</span><span id="g2">g</span><span id="l">l</span><span id="e1">e</span></a>
+        <a id="facebook" target="_blank" href="https://www.facebook.com/"><span id="f">F</span><span id="a">a</span><span id="c">c</span><span id="e2">e</span><span id="b1">b</span><span id="o3">o</span><span id="o4">o</span><span id="k">k</span></a>
+        <a id="youtube" target="_blank" href="https://www.youtube.com/"><span id="y">Y</span><span id="o5">o</span><span id="u1">u</span><span id="t">T</span><span id="u2">u</span><span id="b2">b</span><span id="e3">e</span></a>
       </div>
     </div>
   </body>
