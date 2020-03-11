@@ -23,7 +23,3 @@
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: white;}
 
-.dropbtn{
-  background-color: lightgrey;
-  border: 1px solid grey;
-}
